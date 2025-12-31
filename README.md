@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Patre</h1>
-<h3 align="center">Computer Science Undergraduate </h3>
-https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
+<h3 align="center">Computer Science Undergraduate</h3>
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="400"
+    alt="coding animation"
+  />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-patre-2ab2a428a/" target="_blank">
@@ -22,10 +29,10 @@ https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-
 ## 🚀 About Me
 
 - 🎓 3rd Year **CSE Student @ VIT Bhopal**
-- 💻 Aspiring Backend  Developer  
-- 🤖 AI + ML + System Design + DEVOPS Curious
-- 🧠 Practicing  **DSA & Problem Solving**
-- 🌱 Currently building **AI-powered web platforms**
+- 💻 Aspiring **Backend Developer**
+- 🤖 Curious about **AI, ML, System Design & DevOps**
+- 🧠 Practicing **DSA & Problem Solving**
+- 🌱 Building **AI-powered web platforms**
 - 🏆 Hackathon & Open Source Contributor
 
 ---
@@ -36,15 +43,13 @@ https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,express,mongodb,postgres,mysql,redis,tailwind,git,github&perline=7" />
 </p>
 
-
-
 ---
 
 ## 🧩 Competitive Programming
 
 - 🟠 **LeetCode** – Regular DSA practice  
 - 🟤 **CodeChef** – Problem solving & contests  
-- 🟢 **GeeksforGeeks** – Core CS concepts
+- 🟢 **GeeksforGeeks** – Core CS fundamentals  
 
 ---
 
