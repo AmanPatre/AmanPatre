@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 - 🎓 3rd Year **CSE Student @ VIT Bhopal**
-- 💻 Full  Stack Developer  
+- 💻 Aspiring Backend  Developer  
 - 🤖 AI + ML + System Design + DEVOPS Curious
 - 🧠 Practicing  **DSA & Problem Solving**
 - 🌱 Currently building **AI-powered web platforms**
