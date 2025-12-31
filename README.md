@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Patre</h1>
-<h3 align="center">Computer Science Undergraduate | MERN & AI Enthusiast</h3>
+<h3 align="center">Computer Science Undergraduate </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-patre-2ab2a428a/" target="_blank">
@@ -21,9 +21,9 @@
 ## 🚀 About Me
 
 - 🎓 3rd Year **CSE Student @ VIT Bhopal**
-- 💻 MERN Stack Developer  
-- 🤖 AI + ML + System Design Curious
-- 🧠 Strong in **DSA & Problem Solving**
+- 💻 Full  Stack Developer  
+- 🤖 AI + ML + System Design + DEVOPS Curious
+- 🧠 Practicing  **DSA & Problem Solving**
 - 🌱 Currently building **AI-powered web platforms**
 - 🏆 Hackathon & Open Source Contributor
 
