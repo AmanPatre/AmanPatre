@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Patre</h1>
 <h3 align="center">Computer Science Undergraduate </h3>
+https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-patre-2ab2a428a/" target="_blank">
