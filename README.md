@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Patre</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
 
+<!-- Top Coding GIF -->
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
@@ -61,4 +62,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanpatre&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<!-- Bottom GIF -->
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
+    width="300"
+    alt="developer animation"
+  />
 </p>
